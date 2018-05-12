@@ -1,0 +1,33 @@
+_repo: Vera_34366
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Von Arnim, Elizabeth
+    aliases:
+    - Russell, Mary Annette Beauchamp Russell, Countess
+    - Beauchamp, Mary Annette
+    - Arnim, Elizabeth von
+    - Cholmondeley, Alice
+    - Arnim-Schlagenthin, Countess Elizabeth von
+    birthdate: 1866
+    deathdate: 1941
+    gutenberg_agent_id: '603'
+    url: http://www.gutenberg.org/2009/agents/603
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_von_Arnim
+description: ''
+gutenberg_issued: '2010-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PR'
+title: Vera
+url: http://www.gutenberg.org/ebooks/34366
